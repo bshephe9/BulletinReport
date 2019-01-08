@@ -5,7 +5,7 @@
 <b>What does this Application do?</b>
 <br> 
 <br>
-Whenever you visit The Bulletin Report, you have the ability to scrape, read, save, and delete different treading news articles. If you're not impressed with the articles that appear upon arriving to the site, you have abilty to refresh and then scrape more. Happy Reading! 
+Whenever you visit The Bulletin Report, you have the ability to scrape, read, save, and delete different trending news articles. If you're not impressed with the articles that appear upon arriving to the site, you have abilty to refresh and then scrape more. Happy Reading! 
 
 <b>What Technologies were used to make this App?</b> 
 <br>
