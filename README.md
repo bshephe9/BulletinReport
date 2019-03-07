@@ -26,16 +26,8 @@ To view this application on your browser, please visit the heroku link below:
 Here is a Screenshot of a rough draft of the App: 
 <img width="796" alt="screen shot 2019-01-03 at 10 49 39 am" src="https://user-images.githubusercontent.com/37412308/50647068-ab250180-0f45-11e9-9170-65be7799576b.png">
 
-Here is a ScreenShot of this App: 
 
 
-Here is a brief demo of this App in use: 
-
-
-Testing: 
-
-
-Insert the Travis Data Below: 
 
 
 
